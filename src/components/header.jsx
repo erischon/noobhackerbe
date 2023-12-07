@@ -23,12 +23,6 @@ export default function Header() {
             Blog
           </a>
         </li>
-
-        <li>
-          <a href="/about" className="text-sm uppercase font-bold">
-            About
-          </a>
-        </li>
       </ul>
     </header>
   );
