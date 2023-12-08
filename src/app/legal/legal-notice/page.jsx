@@ -1,3 +1,3 @@
 export default function LegalNoticePage() {
-  return <div>LegalNoticePage</div>;
+  return <div>Legal Notice Page</div>;
 }
